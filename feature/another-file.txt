@@ -1,3 +1,3 @@
-Another file to test git pull functionality inside Feature-1 branch, changes made.
+Another file to test git pull functionality inside Feature-1 branch, changes made locally.
 
 The changes are made locally this time and trying to create conflict locally
