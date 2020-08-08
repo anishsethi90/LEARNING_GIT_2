@@ -1,7 +1,9 @@
-Another file to test git pull functionality inside Feature-1 branch, changes made locally and fully.
+This line was replaced by feature-2 branch.
 
 Another file to test git pull functionality inside Feature-1 branch, changes made locally and completely.
 
 Another file to test git pull functionality inside Feature-1 branch changes made remotely on this
 
 The changes are made locally this time and trying to create conflict locally
+
+This line was added in feature-2 branch
